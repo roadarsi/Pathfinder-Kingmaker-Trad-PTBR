@@ -5,10 +5,10 @@ A tradução inicial não foi feita por mim, mas sim por um cara chamado "Alexan
 O aquivo aqui presente contém ajustes e inclusões extras na tradução original.
 
 ## Como utilizar esta tradução?
-Dentra do pasta do jogo vá até a subpasta:
-*\Kingmaker_Data\StreamingAssets\Localization\* e substitua o arquivo *"enGB.json"*.
+Dentro da pasta do jogo vá até a subpasta:
+*\Kingmaker_Data\StreamingAssets\Localization* e substitua o arquivo *"enGB.json"*.
 
-Recomendo fortemente fazer um backup do arquivo original antes de fazer a substituição. Isto e especialmente importante para os jogadores que tem a versão (GoG) do jogo, pois o arquivo original é necessário para que o jogo consiga fazer uma atualização correta.
+Recomendo fortemente fazer um backup do arquivo original antes de fazer a substituição. Isto é especialmente importante para os jogadores que tem a versão (GoG) do jogo, pois o arquivo original é necessário para que o jogo consiga fazer uma atualização correta.
 
 ## Perguntas sobre a tradução e o seu estado
 **Por quê um versão com ajustes?**
@@ -23,7 +23,7 @@ Sempre que o jogo não encontra uma entrada no arquivo traduzido, ao invés de a
 
 Sinceramente, eu não sei. Meu entendimento do inglês é mais a nível técnico, demoro a fazer uma tradução 100% correta e tempo é algo que tenho bem limitado. Originalmente eu enviava estava enviando as entradas originais para que Alexandre as traduzi-se.
 
-**Essas traduções do Google são horríveis. Você fará uma revisão geral na tradução**
+**Essas traduções do Google são horríveis. Você fará uma revisão geral na tradução?**
 
 O mais provável é não. Eu até estou fazendo alguns ajustes aqui e ali, principalmente no quê se refere a concordância de gênero nas entradas e ajustes na enciclopédia do jogo, ou alguns ajustes nas entradas do diário. Agora fazer uma revisão geral é um trabalho que exige uma grande quantidade de tempo e alguém com um entendimento bem melhor que o meu na língua inglesa.
 
