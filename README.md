@@ -21,7 +21,7 @@ Sempre que o jogo não encontra uma entrada no arquivo traduzido, ao invés de a
 
 **Você vai traduzir estas entradas em inglês?**
 
-Sinceramente, eu não sei. Meu entendimento do inglês é mais a nível técnico, demoro a fazer uma tradução 100% correta e tempo é algo que tenho bem limitado. Originalmente eu enviava estava enviando as entradas originais para que Alexandre as traduzi-se.
+Sinceramente, eu não sei. Meu entendimento do inglês é mais a nível técnico, demoro a fazer uma tradução 100% correta e tempo é algo que tenho bem limitado. Originalmente eu estava enviando as entradas originais para que Alexandre as traduzi-se.
 
 **Essas traduções do Google são horríveis. Você fará uma revisão geral na tradução?**
 
@@ -29,4 +29,4 @@ O mais provável é não. Eu até estou fazendo alguns ajustes aqui e ali, princ
 
 **Ainda tem alguma entrada de texto ausente?**
 
-Na versão atual do jogo (1.3.3) todas as entradas presentes na versão original em inglês estão presentes na tradução (62.526 entradas para ser exato), ainda que cerca de 3.000 entradas estão sem nenhum tipo de tradução, as mesmas estão em inglês.
+Na versão atual do jogo (2.0.3) todas as entradas presentes na versão original em inglês estão presentes na tradução (63.450 entradas para ser exato), ainda que cerca de 3.000 entradas estão sem nenhum tipo de tradução, as mesmas estão em inglês.
